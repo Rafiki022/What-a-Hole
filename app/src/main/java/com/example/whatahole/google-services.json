@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64364127326",
+    "project_id": "what-a-hole-a4c50",
+    "storage_bucket": "what-a-hole-a4c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64364127326:android:4b125e475116ce9e7800cf",
+        "android_client_info": {
+          "package_name": "com.example.whatahole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64364127326-egb040qp01bs2fdjrejpet0bkbe75as0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYcoyQvHIMXpZWMBjCt9uu80Hm_j9pyW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64364127326-egb040qp01bs2fdjrejpet0bkbe75as0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
